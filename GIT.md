@@ -13,8 +13,7 @@ called DVCS. Because every contributor has a clone from the repository on their 
 
 ## Checkpoint
 ### What is a VCS?
-A VCS is a version controll system like GIT. You can restore old versions and all commits / changes are stored
-either on a local devices or in Github / Gitlab.
+A VCS is a version controll system like GIT. You can restore old versions and all commits / changes are stored either on a local devices or in Github / Gitlab. GIT allows multiple contributors to work on the same project / repository.
 
 ### Which GIT servers do you know?
 * Github
